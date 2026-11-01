@@ -1,0 +1,82 @@
+[
+  {
+    "epoch": 1,
+    "train_loss": 1.3968035955111187,
+    "train_accuracy": 49.504444444444445,
+    "val_loss": 1.050462860250473,
+    "val_accuracy": 62.9,
+    "seconds": 13.24201014900018
+  },
+  {
+    "epoch": 2,
+    "train_loss": 0.9522518315739101,
+    "train_accuracy": 66.36222222222223,
+    "val_loss": 0.9053113607168197,
+    "val_accuracy": 68.48,
+    "seconds": 13.259190474000206
+  },
+  {
+    "epoch": 3,
+    "train_loss": 0.7470149647606744,
+    "train_accuracy": 73.85777777777778,
+    "val_loss": 0.7550651248395442,
+    "val_accuracy": 73.74,
+    "seconds": 12.786835096000232
+  },
+  {
+    "epoch": 4,
+    "train_loss": 0.5930851633601718,
+    "train_accuracy": 79.14444444444445,
+    "val_loss": 0.6976605541944504,
+    "val_accuracy": 75.48,
+    "seconds": 12.863127733000056
+  },
+  {
+    "epoch": 5,
+    "train_loss": 0.456890035560396,
+    "train_accuracy": 83.95333333333333,
+    "val_loss": 0.7291989035248756,
+    "val_accuracy": 75.94,
+    "seconds": 12.805591161999928
+  },
+  {
+    "epoch": 6,
+    "train_loss": 0.3330619485113356,
+    "train_accuracy": 88.07777777777778,
+    "val_loss": 0.7931745503306389,
+    "val_accuracy": 76.2,
+    "seconds": 13.03771123100023
+  },
+  {
+    "epoch": 7,
+    "train_loss": 0.24490978074603612,
+    "train_accuracy": 91.32666666666667,
+    "val_loss": 0.8388224945724011,
+    "val_accuracy": 75.62,
+    "seconds": 13.115137522000168
+  },
+  {
+    "epoch": 8,
+    "train_loss": 0.1808962395615048,
+    "train_accuracy": 93.58222222222223,
+    "val_loss": 1.0876496090486645,
+    "val_accuracy": 75.54,
+    "seconds": 13.010448986000029
+  },
+  {
+    "epoch": 9,
+    "train_loss": 0.14365310123761496,
+    "train_accuracy": 94.91111111111111,
+    "val_loss": 1.111012152737379,
+    "val_accuracy": 75.68,
+    "seconds": 13.003163356000186
+  },
+  {
+    "epoch": 10,
+    "train_loss": 0.12461023810969458,
+    "train_accuracy": 95.66666666666667,
+    "val_loss": 1.0784769169270991,
+    "val_accuracy": 75.4,
+    "seconds": 12.997507370000221
+  }
+]

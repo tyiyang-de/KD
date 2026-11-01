@@ -1,0 +1,4 @@
+model,parameters,best_val_accuracy,test_loss,test_accuracy
+Teacher,1186986,76.2,0.8535357908248902,74.45
+Student CE,267738,70.34,0.9251359161376953,69.21
+Student KD T=4,267738,71.84,0.9510301120758057,70.66
